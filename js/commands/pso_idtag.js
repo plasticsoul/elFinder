@@ -42,24 +42,3 @@ popUp('http://localhost/personal-2012/soundupload/wp-soundupload/_includes/id3/d
 
 <!-- Script Size:  0.73 KB  -->
 
-function example_append() {		 
-
-var $track = $( "#track" ),
-	$bttrack = $( "#bttrack" );
-
-
-};
-
-
-example_append();
-
-   	 $('#bttrack' + num).click(function () {
-
-                //$('#input' + num).remove();
-
-      $('#track' + num).remove();
-    });		
-	
-		
-
-		}}};
